@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/adms":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/adms","hostpath":"E:/pro/git/pro-ad","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"D:/Homestead","disabled":false}}}
